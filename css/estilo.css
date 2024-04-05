@@ -8,3 +8,8 @@
     width: 100px;
     box-shadow: 10px 5px 5px gray;
 }
+#resultado{
+    font-size: 150px;
+    color: blue;
+    margin-left: 100px;
+}
